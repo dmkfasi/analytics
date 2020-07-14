@@ -4,6 +4,7 @@
 - Автор: Андрей Иванов
 - Ревизия: 0.2
 
+![AppScreen](https://github.com/dmkfasi/el-ma-ap/blob/master/AppScreen.png)
 
 ### Общие требования и рекомендации:
 
