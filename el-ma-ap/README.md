@@ -4,7 +4,7 @@
 - Автор: Андрей Иванов
 - Ревизия: 0.2
 
-![AppScreen](https://github.com/dmkfasi/el-ma-ap/blob/master/AppScreen.png)
+![AppScreen](https://github.com/dmkfasi/analytics/blob/master/el-ma-ap/AppScreen.png?raw=true)
 
 ### Общие требования и рекомендации:
 
